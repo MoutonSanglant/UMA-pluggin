@@ -1,0 +1,18 @@
+{
+    "name": "com.umasteeringgroup.uma",
+    "version": "v2.12",
+    "displayName": "UMA",
+    "description": "Unity Multipurpose Avatar",
+    "unity": "2021.2",
+    "unityRelease": "1f1",
+    "dependencies": {},
+    "keywords": [
+        "UMA",
+        "avatar"
+    ],
+    "author": {
+        "name": "Jaimi",
+        "email": "jaima@google.com",
+        "url": "https://github.com/MoutonSanglant/UMA"
+    }
+}
