@@ -3,7 +3,7 @@
     "version": "v2.12",
     "displayName": "UMA",
     "description": "Unity Multipurpose Avatar",
-    "unity": "2021.2",
+    "unity": "2020.1",
     "unityRelease": "1f1",
     "dependencies": {},
     "keywords": [
@@ -11,8 +11,8 @@
         "avatar"
     ],
     "author": {
-        "name": "Jaimi",
-        "email": "jaima@google.com",
+        "name": "Defresne Thierry",
+        "email": "defresne.thierry@gmail.com",
         "url": "https://github.com/MoutonSanglant/UMA"
     }
 }
